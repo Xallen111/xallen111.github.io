@@ -3,6 +3,20 @@
     background-color: #fff;
 }
 
+border: 1px solid red;
+
+h1, p {
+  color: #333333;
+}
+
+a {
+  color: #008CBA;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+
 .Back-clean p {
     color: #7d8285;
 }
